@@ -1,4 +1,5 @@
 cl2
 ===
 
-An old scripting language implementation with similarities to JavaScript
+A scripting language implementation with similarities to JavaScript.
+Not used/maintained anymore, the successor will be 'zombo'.
